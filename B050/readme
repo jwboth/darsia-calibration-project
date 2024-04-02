@@ -1,0 +1,15 @@
+Background files:
+fluidflower.py
+concentration_analysis.py
+
+Data management file:
+data_management.py
+
+Setup scripts (run in following order and consecutively update data_management.py):
+setup_config.py
+setup_segmentation.py
+setup_porosity.py
+setup_analysis.py
+
+Analysis scripts:
+analysis.py
